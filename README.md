@@ -20,7 +20,7 @@ Ensure your SSH key is in the lxc default profile
 Build a 
 
 ## Example
-example.md
+[https://github.com/blurer/lxc-lab/EXAMPLE.md]
 
 ## Files 
 menu.sh
