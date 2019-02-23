@@ -19,6 +19,9 @@ chmod +x *.sh
 Ensure your SSH key is in the lxc default profile
 Build a 
 
+## Example
+example.md
+
 ## Files 
 menu.sh
 - Build -> create.sh
@@ -36,3 +39,4 @@ menu.sh
 * Fix parallel creation and destruction of containers, will improve performance.
 * Add options for different sizes (t2.nano, t2.micro, 128mb, etc).
 * Include basic Ansible playbooks
+
