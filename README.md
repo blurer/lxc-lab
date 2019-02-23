@@ -19,12 +19,10 @@ chmod +x *.sh
 Ensure your SSH key is in the lxc default profile
 Build a 
 
-## Example
-[https://github.com/blurer/lxc-lab/EXAMPLE.md]
 
 ## Files 
 menu.sh
-- Build -> create.sh
+- Build -> build.sh
 - Restart -> restart.sh
 - Stop -> stop.sh
 - Destroy ->destroy.sh

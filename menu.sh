@@ -7,7 +7,7 @@ select opt in "${options[@]}"
 do
     case $opt in
         "Build")
-            bash create.sh
+            bash build.sh
             break
             ;;
         "Restart")
