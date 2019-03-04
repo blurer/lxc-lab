@@ -13,7 +13,8 @@ Documentation for installation is at README2.md
 * sem (thredding)
 * SSH keys added to LXC default profile
 
-
+## Requirements II
+* Ensure that you set your default image name in ``build.sh`` otherwise the build script **will** fail. 
 
 ## Usage
 
@@ -41,4 +42,4 @@ menu.sh
 * Fix parallel creation and destruction of containers, will improve performance.
 * Add options for different sizes (t2.nano, t2.micro, 128mb, etc).
 * Include basic Ansible playbooks
-
+* Have backup for build.sh if default image isn't found. ie. fallback to Ubuntu or CentOS if not found.

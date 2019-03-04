@@ -112,7 +112,7 @@ ubuntu@ip-172-26-5-38:~$ ansible u1 -m ping
 * Run ansible commands [complete]
 * Publish as template [next]
 
-## Publush as template..
+## Publish as template..
 
 ``lxc stop u1-base``
 
