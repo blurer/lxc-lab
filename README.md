@@ -6,10 +6,14 @@ Scripts to quickly build, manage, and destory LXC containers for automation test
 I lab stuff. A lot. This is targeted at people that are testing shell, Ansible, etc. scripts on a regular basis and don't want to break or spin up VMs for this. 
 
 ## Requirements
+Documentation for installation is at README2.md
+
 * LXC
 * LXD
 * sem (thredding)
 * SSH keys added to LXC default profile
+
+
 
 ## Usage
 
